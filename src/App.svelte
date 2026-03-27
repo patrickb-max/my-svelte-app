@@ -15,6 +15,7 @@
     <h1>Get started</h1>
     <p>Edit <code>src/App.svelte</code> and save to test <code>HMR</code></p>
     <p>Edit <code>src/App.svelte</code> and saved to test because PATRICK has updated it <code>HMR</code></p>
+    <p>Edit <code>src/App.svelte</code> and saved to test because PATRICK has updated it <code>HMR</code></p>
   </div>
   <Counter />
 </section>
